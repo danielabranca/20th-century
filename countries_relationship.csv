@@ -1,0 +1,95 @@
+,source,target,value
+0,Austria,France,6
+1,Austria,Hungary,6
+2,Hungary,Russia,5
+3,Germany,Russia,21
+4,Germany,Ukraine,10
+5,Germany,Italy,26
+6,Austria,Germany,10
+7,France,Poland,14
+8,France,Germany,19
+9,Germany,Poland,23
+10,Estonia,Germany,5
+11,Estonia,Latvia,12
+12,Latvia,Lithuania,6
+13,Finland,Lithuania,11
+14,Finland,Germany,11
+15,Denmark,Poland,5
+16,Denmark,Norway,12
+17,Denmark,Sweden,5
+18,Germany,Sweden,6
+19,Germany,Netherlands,5
+20,Luxembourg,Netherlands,6
+21,Belgium,Luxembourg,4
+22,Belgium,France,5
+23,France,Italy,5
+24,Greece,Italy,8
+25,Germany,Greece,3
+26,Albania,Greece,12
+27,Belarus,Ukraine,6
+28,Belarus,Libya,2
+29,Egypt,Libya,15
+30,Egypt,Iraq,5
+31,Iran,Iraq,6
+32,Germany,Japan,17
+33,Japan,Russia,12
+34,Algeria,Morocco,6
+35,Algeria,Italy,5
+36,China,Japan,27
+37,Italy,Japan,11
+38,Japan,Thailand,6
+39,Singapore,Thailand,6
+40,Philippines,Singapore,6
+41,Japan,Philippines,9
+42,Australia,Philippines,6
+43,Australia,Japan,5
+44,Japan,Solomon Islands,8
+45,India,Japan,11
+46,France,Russia,6
+47,China,France,6
+48,China,India,12
+49,India,Pakistan,13
+50,Israel,Pakistan,6
+51,Israel,North Korea,6
+52,North Korea,South Africa,5
+53,Israel,South Africa,6
+54,Israel,Libya,5
+55,Iran,Libya,6
+56,Germany,Iran,1
+57,France,Japan,3
+58,India,Papua New Guinea,2
+59,Pakistan,Philippines,5
+60,Laos,Philippines,5
+61,Cambodia,Laos,6
+62,Cambodia,Vietnam,9
+63,Kenya,Vietnam,5
+64,Ghana,Kenya,6
+65,Ghana,Seychelles,5
+66,France,Seychelles,5
+67,France,Guinea-Bissau,5
+68,Estonia,Lithuania,6
+69,Finland,Romania,6
+70,Albania,Romania,5
+71,Albania,Bulgaria,6
+72,Bulgaria,Poland,6
+73,Poland,Romania,6
+74,Hungary,Romania,6
+75,Hungary,Mongolia,4
+76,China,Mongolia,6
+77,China,North Korea,6
+78,Cuba,North Korea,6
+79,Cuba,Vietnam,10
+80,North Korea,Vietnam,2
+81,North Korea,United States,6
+82,South Korea,United States,6
+83,Canada,South Korea,5
+84,Australia,Canada,6
+85,Australia,Vietnam,3
+86,Cuba,United States,2
+87,Canada,Japan,6
+88,Lithuania,Russia,5
+89,Rwanda,South Africa,5
+90,North Korea,Rwanda,2
+91,Germany,Norway,6
+92,Romania,Russia,6
+93,India,Singapore,5
